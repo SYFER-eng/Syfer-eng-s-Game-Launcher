@@ -48,7 +48,7 @@ def w2s_batch(view_matrix, positions, width, height):
 
 def load_settings():
     try:
-        with open("cheat_settings.json", "r") as f:
+        with open("C:\Windows\Temp\Settings_syfer.json", "r") as f:
             return json.load(f)
     except:
         return {
@@ -83,7 +83,7 @@ def load_settings():
 
 def save_settings(settings):
     try:
-        with open("cheat_settings.json", "w") as f:
+        with open("C:\Windows\Temp\Settings_syfer.json", "w") as f:
             json.dump(settings, f, indent=2)
     except:
         pass
@@ -280,7 +280,7 @@ class SettingsMenu(QtWidgets.QWidget):
         left_panel = QtWidgets.QVBoxLayout()
 
         img_label = QtWidgets.QLabel()
-        logo_path = "logo.png"
+        logo_path = "C:\Windows\Temp\logo.png"
         logo_url = "https://raw.githubusercontent.com/Skeleton-Archive/cs2-offsets/refs/heads/main/logo.png"
 
         # Download logo if missing or invalid
