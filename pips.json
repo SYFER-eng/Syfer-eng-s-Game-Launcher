@@ -1,1 +1,11 @@
-
+[
+  "requests",
+  "numpy",
+  "PyQt6",
+  "certifi",
+  "pymem",
+  "win32gui",
+  "psutil",
+  "QtWidgets",
+  "QtGui"
+]
