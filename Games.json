@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Counter-Strike 2",
+    "Image": "https://cdn.cloudflare.steamstatic.com/steam/apps/240/header_alt_assets_0.jpg",
+    "DownloadURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/240/header_alt_assets_0.jpg"
+  },
+  {
+    "Name": "Team Fortress 3",
+    "Image": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+    "DownloadURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg"
+  },
+  {
+    "Name": "Portal 3",
+    "Image": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg",
+    "DownloadURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg"
+  },
+  {
+    "Name": "Half-Life",
+    "Image": "https://tse1.mm.bing.net/th/id/OIP.KPOlKqQRH_pGBr8qzsAL7AHaKR?r=0&rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "DownloadURL": "https://tse1.mm.bing.net/th/id/OIP.KPOlKqQRH_pGBr8qzsAL7AHaKR?r=0&rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3"
+  }
+]
